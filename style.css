@@ -1,0 +1,328 @@
+:root {
+    --cor-de-fundo: #9900ff;
+}
+body {
+    background-color: var(--cor-de-fundo-);
+}
+h1{
+    background-color:rgb(106, 0, 245)
+}
+
+    
+    width: 112px;
+    height: 48px;/* Header */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 18px 24px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 428px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    
+    
+    /* Frame 144 */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 107px;
+    
+    width: 380px;
+    height: 48px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    
+    
+    /* Frame 143 */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    
+    margin: 0 auto;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Menu */
+    
+    width: 48px;
+    height: 48px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Vector */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    
+    
+    /* Menu */
+    
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 25%;
+    bottom: 25%;
+    
+    background: #002F52;
+    
+    
+    /* Logo */
+    
+    width: 40px;
+    height: 40px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+    
+    /* Polygon 1 */
+    
+    position: absolute;
+    width: 32.3px;
+    height: 34.17px;
+    left: 75.85px;
+    top: 5.72px;
+    
+    background: #FECD2F;
+    
+    
+    /* Polygon 1 (Stroke) */
+    
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 72px;
+    top: 4px;
+    
+    background: linear-gradient(180deg, #FD8325 67.71%, #FC6621 100%);
+    
+    
+    /* Frame 99 */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+    
+    margin: 0 auto;
+    width: 168.88px;
+    height: 44px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+    
+    /* Favoritos */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px;
+    gap: 10px;
+    
+    width: 50.88px;
+    height: 48px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Favoritos */
+    
+    width: 34.88px;
+    height: 32px;
+    
+    /* Teste */
+    background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Compras */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 4px 8px 8px;
+    gap: 10px;
+    
+    width: 54px;
+    height: 50px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+    
+    /* Sacola */
+    
+    width: 38px;
+    height: 38px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Group */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    
+    
+    /* Vector */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    
+    
+    /* Compras */
+    
+    position: absolute;
+    left: 16.67%;
+    right: 16.67%;
+    top: 8.33%;
+    bottom: 8.34%;
+    
+    background: #002F52;
+    
+    
+    /* Minha sacola */
+    
+    display: none;
+    width: 134px;
+    height: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+    
+    /* Usuário */
+    
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px;
+    gap: 10px;
+    
+    width: 48px;
+    height: 48px;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    
+    
+    /* Usuario */
+    
+    width: 32px;
+    height: 32px;
+    
+    background: #002F52;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Meu perfil */
+    
+    display: none;
+    width: 98px;
+    height: 30px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
